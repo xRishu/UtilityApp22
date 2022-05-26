@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566172240613",
+    "project_id": "utility22-98b33",
+    "storage_bucket": "utility22-98b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566172240613:android:6ca92519d72e59dcaa220c",
+        "android_client_info": {
+          "package_name": "com.rk.utility22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566172240613-thmvdpdbc5rmqh8lok0sfsd6upu813ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-pYOqyDo-RusZCa7Qezf-cuQAnRcUT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566172240613-thmvdpdbc5rmqh8lok0sfsd6upu813ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
